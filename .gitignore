@@ -27,6 +27,7 @@ public/mix-manifest.json
 .env.*.php
 .env.php
 .sass-cache
+.package-lock.json
 
 # IDE exclusions
 .DS_Store
